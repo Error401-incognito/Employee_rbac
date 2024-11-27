@@ -69,7 +69,7 @@ This project is a front-end template and does not include a back-end API. You ca
 
 ---
 
-##Description
+## Description
 This is a ReactJS-based front-end template for an Employee Management System (EMS) with Role-Based Access Control (RBAC). It allows users to manage employees, assign roles, and access different functionalities based on their role permissions. The system is designed to be modular, scalable, and easily customizable.
 
 The project uses ReactJS for the UI, ViteJS for fast development, and incorporates best practices for performance and security.
