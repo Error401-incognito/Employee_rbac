@@ -74,10 +74,13 @@ This is a ReactJS-based front-end template for an Employee Management System (EM
 
 The project uses ReactJS for the UI, ViteJS for fast development, and incorporates best practices for performance and security.
 
-##Features:
+## Template:
 Role-Based Access Control (RBAC): Different user roles (Admin, Manager, Employee) with distinct access rights.
+
 User Authentication & Authorization: Secure login page and role-based routing to different sections.
+
 Employee CRUD Operations: Admin users can add, update, delete, and view employee details.
+
 Responsive UI: The application is designed to be responsive, ensuring proper display across various devices.
 
 
